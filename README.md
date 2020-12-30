@@ -1,0 +1,2 @@
+# Real_or_Fake_news_Dectection
+A Machine Learning classification model was made and trained by taking two data sets of fake and real news. After that the data was pre-processed and merged together for further processing. I used Naive-Bayes Approach in order to train the model along with Logisitic Regression and Random Forest in order to get the model with best accuracy. NLTK was used various purposes in between the project.
